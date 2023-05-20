@@ -14,14 +14,14 @@
 
 ## HomePage:
 
-![Homepage](https://github.com/lokeshahire/Merchify_Assignment/blob/master/src/images/Home.png?raw=true)
+![Homepage](<https://github.com/lokeshahire/Chaabi_Assignment/blob/master/images/Screenshot%20(109).png?raw=true>)
 <br>
 <br>
 <br>
 
-## Quiz PAGE :
+## Typing PAGE :
 
-![Typing](https://github.com/lokeshahire/Merchify_Assignment/blob/master/src/images/quiz.png?raw=true)
+![Typing](<https://github.com/lokeshahire/Chaabi_Assignment/blob/master/images/Screenshot%20(110).png?raw=true>)
 <br>
 <br>
 <br>
