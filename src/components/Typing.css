@@ -1,0 +1,141 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.typing-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-right: 10px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.input__box {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  color: red;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.card-content {
+  overflow: auto;
+  max-height: 300px;
+  color: green;
+}
+
+.content {
+  white-space: pre-wrap;
+}
+
+.has-background-success {
+  background-color: #dff0d8;
+}
+
+.has-background-danger {
+  background-color: #f2dede;
+}
+
+.has-text-primary {
+  color: #3273dc;
+}
+
+.has-text-centered {
+  text-align: center;
+}
+
+.is-info {
+  background-color: #043251;
+  color: #fff;
+  padding: 10px 30px;
+  height: 50px;
+}
+
+.is-fullwidth {
+  width: 100%;
+}
+
+.is-size-1 {
+  font-size: 2rem;
+}
+
+.is-size-5 {
+  font-size: 1rem;
+}
+
+.has-text-info {
+  color: #209cee;
+}
+
+.has-text-info.is-size-1 {
+  font-size: 2rem;
+}
+
+.has-text-info.is-size-5 {
+  font-size: 1rem;
+}
+
+.typing-app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ea6d6d;
+}
+
+.light {
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.dark {
+  background-color: #333;
+  color: #f5f5f5;
+}
+
+.dark__mode {
+  margin-bottom: 10px;
+}
+
+.fa-duotone {
+  margin-right: 10px;
+}
+
+/* .fa-moon:before {
+  content: "\\f186";
+} */
+
+@media (max-width: 480px) {
+  .typing-app {
+    padding: 10px;
+  }
+
+  .section {
+    margin-bottom: 10px;
+  }
+
+  .is-size-1 {
+    font-size: 1.5rem;
+  }
+
+  .is-size-5 {
+    font-size: 0.8rem;
+  }
+}
