@@ -1,4 +1,4 @@
-# Merchify Assignment
+# Chaabi Assignment
 
 # We build mainly 2 pages :-
 
